@@ -1,5 +1,3 @@
-# BDE-financial-news-stock-project
-```
 BDE-financial-news-stock-project
 ├─ data
 │  ├─ processed
@@ -8,8 +6,8 @@ BDE-financial-news-stock-project
 │     └─ tesla_stock_data_raw.csv
 ├─ docker-compose.yml
 ├─ notebooks
-│  ├─ .ipynb_checkpoints
-│  │  └─ 01_data_cleaning_tesla-checkpoint.ipynb
-│  └─ 01_data_cleaning_tesla.ipynb
-├─ output
+│  ├─ 01_data_cleaning_tesla.ipynb
+│  └─ web_scraping.ipynb
 └─ README.md
+
+```
