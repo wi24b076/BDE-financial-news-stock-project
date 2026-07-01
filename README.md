@@ -1,3 +1,4 @@
+```
 BDE-financial-news-stock-project
 ├─ data
 │  ├─ processed
