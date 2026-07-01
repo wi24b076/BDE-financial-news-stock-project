@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BDE Financial News & Stock Project — Tesla
 
 This repository contains a Big Data Engineering project about Tesla stock data and Tesla-related financial news.
@@ -92,3 +93,19 @@ If no fresh API response is available, the notebook can use the cached raw API C
 - Spark reads from Kafka and processes the stream in notebook `06_kafka_spark_streaming_tesla.ipynb`.
 - Results are stored as CSV and Parquet files in `data/results/`.
 - The data flow is documented in the Mermaid diagram above.
+=======
+```
+BDE-financial-news-stock-project
+├─ data
+│  ├─ processed
+│  │  └─ tesla_stock_data_cleaned.csv
+│  └─ raw
+│     └─ tesla_stock_data_raw.csv
+├─ docker-compose.yml
+├─ notebooks
+│  ├─ 01_data_cleaning_tesla.ipynb
+│  └─ web_scraping.ipynb
+└─ README.md
+
+```
+>>>>>>> 35b943fed6c18bc35e2fd6b15bc4b5c48c52debc
