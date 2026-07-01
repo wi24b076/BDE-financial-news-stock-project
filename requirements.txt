@@ -1,9 +1,0 @@
-pandas
-matplotlib
-requests
-beautifulsoup4
-lxml
-kafka-python
-pyspark
-jupyter
-nbformat
